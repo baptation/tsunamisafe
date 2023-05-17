@@ -1,0 +1,18 @@
+FR,EN,ES
+Sentier,Path,Sendero
+Route,Road,Carretera
+Carrefour,Crossroads,Cruce
+Chemin,Path,Camino
+Ruelle,Narrow Street,Callejón
+Rond Point,Roundabout,Rotonda
+Rond-point,Roundabout,Rotonda
+Rue,Street,Calle
+Parking,Parking,Estacionamiento
+Place,Square,Plaza
+Placette,Small Square,Plazuela
+Faré,Traditional house,Casa tradicional
+Impasse,No-through road,Calle sin salida
+Escalier,Stairs,Escalera
+Terre-plein,Median Strip,Terraplén
+Stade,Stadium,Estadio
+Bas-côté,Roadside,Arcén

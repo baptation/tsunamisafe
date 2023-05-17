@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Sites_refuge_Saint_Barthelemy" id="Sites_refuge_Saint_Barthelemy">
+	<SimpleField name="Nom_SR" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Commune" type="string"></SimpleField>
+	<SimpleField name="Alt_moy_m" type="int"></SimpleField>
+</Schema>
+<Folder><name>Sites_refuge</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Anse des lézards</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84576645460297,17.91598546659067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Morne du puits</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85450671462147,17.91785460419835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de la source</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8582465417498,17.91596206559676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Montée de Grand-Fond</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.81344973002879,17.89568407818737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Accès hôtel Guanahani</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.80542802717798,17.9105252158788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Toiny</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.79839511864044,17.89960200285626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chapelle proximité Pompi</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8000682433836,17.90361084665371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Marigot</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.80950180050967,17.90980521436932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Zone artisanale Salines</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82837310829445,17.89917328850152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Petite Saline</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82294064403136,17.90124464251965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Saint-Jean vers Lorient</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83272248032471,17.90229704986054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Entrée de Lorient</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82992825116146,17.907440937864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route les hauts d'Anse des Cayes</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84748606852402,17.91203346961347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Saint-Jean / Salines</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8324028971798,17.90057055394058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Salines / Saint-Jean</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83014416412177,17.89849310063013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Morne Tourterelle</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82984674975549,17.89493945576776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route les hauts de Carénage</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83640066336953,17.89595159776792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Les hauts de Saint-Jean</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83471238699721,17.90077251396883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Tourmente</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84805189845532,17.90427305709688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Gouverneur</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83125089451676,17.88625412587099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Haut de Corossol vers Public</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85388891879748,17.90817485379011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Haut de Corossol vers Colombier</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85393749672523,17.90912737542974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Local ASP</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8520521410073,17.90642338756728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Montée de Camaruche</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.81940678786696,17.90632679543447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue de la Colline</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85236434565682,17.89576183767051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">La pointe</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.86131660868082,17.92004920774342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue des Normands</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84700254150852,17.8950327613517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Centre médico-social</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85065944163205,17.90096785318244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue de la Paix</SimpleData>
+		<SimpleData name="Type">Bas-côté</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84844242131885,17.89754803503101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Plage de Colombier</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.86755003679664,17.92394807423495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Clocher de Lorient</SimpleData>
+		<SimpleData name="Type">Impasse</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82398192142885,17.90521394101968</coordinates></Point>
+  </Placemark>
+
+
+</Folder>
+</Document></kml>

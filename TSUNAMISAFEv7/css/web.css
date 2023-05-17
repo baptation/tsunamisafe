@@ -1,0 +1,223 @@
+/*Création de la grille et positionement des "div"*/
+body {
+  min-height: 96vh;
+  display: grid;
+  grid-template-columns: 7fr;
+  grid-template-rows: 7vh 90vh;
+	font-family: 'Raleway', sans-serif;
+}
+
+/*Style général*/
+html {
+  z-index: 1;
+  background-color:#ffffff00;
+  font-family: 'Raleway', sans-serif;
+}
+
+/*Titre*/
+header {
+  z-index: 2;
+  width: 100%;
+  height: 7vh;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  grid-row: 1;
+  grid-column: 1 / span 3;
+  font-size: 0.2em;
+  color: white;
+  background-color: #c65f56;
+  box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.3);
+}
+
+header p {
+  font-size: 8em;
+  margin-left: 2vh;
+  margin-top: 1.5vh;
+  color:rgb(255, 255, 255);
+  background-color:rgba(17, 17, 49, 0)
+}
+#langage{
+  margin-left: 2vh;
+  margin-top: 1.5vh;
+  margin-bottom: 1.5vh;
+}
+#instructions{
+  margin-left: 2vh;
+  margin-top: 2vh;
+}
+/*Map*/
+#map {
+  z-index: 1;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-top: 6.7vh;
+  margin-left: 0vh;
+  margin-right: 0vh;
+  grid-column: 1 / span 3;
+  grid-row: 2;
+}
+
+.centered-button {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+/*Espace entre les puces du menu déroulant*/
+ul li {
+  margin-bottom: 25px;
+  color:rgb(255, 255, 255);
+}
+
+/*================================*/
+/*=== Partie sur le Swipe Menu ===*/
+/*================================*/
+/* Menu burger */
+#menu-burger {position:absolute; top:2.5em; right:3.5em; display:inline-block; cursor:pointer;}
+#menu-burger .bar1,
+#menu-burger .bar2,
+#menu-burger .bar3 {width:32px; height:5px; background-color:rgb(255, 255, 255); margin:6px 0; transition:0.4s;}
+#menu-burger:hover {opacity:.75; transition:.5s;}
+#menu-burger.clicked .bar1 {-webkit-transform:rotate(-45deg) translate(-9px, 6px); transform:rotate(-45deg) translate(-9px, 6px);}
+#menu-burger.clicked .bar2 {opacity: 0;}
+#menu-burger.clicked .bar3 {-webkit-transform:rotate(45deg) translate(-8px, -8px); transform:rotate(45deg) translate(-8px, -8px);}
+
+/* Main menu (slide) */
+#menu {position:fixed; z-index:9999; left:-35%; top:auto; background:#c65f56; padding:4em 2em; width:25%; min-height:100%; box-shadow:1px 0 1px #9A2519;}
+#menu.visible {animation:.5s slideRight ease-in forwards; transition-delay:0;}
+#menu.invisible {animation:1s slideLeft ease-out forwards; transition-delay:0;}
+
+
+#menu h1 {
+	font-size: 1.3em;
+	margin-left: 2vh;
+	margin-top: 1.5vh;
+	color:rgb(255, 255, 255);
+	background-color:rgba(17, 17, 49, 0)
+  }
+
+/* Animations pour le menu slide */
+@keyframes slideRight {
+	from {left:-35%;}
+	to {left:0%;}
+}
+@-webkit-keyframes slideRight {
+	from {left:-35%;}
+	to {left:0%;}
+}
+@keyframes slideLeft {
+	from {left:0%;}
+	to {left:-35%;}
+}
+@-webkit-keyframes slideLeft {
+	from {left:0%;}
+	to {left:-35%;}
+}
+
+/* Responsive design */
+@media (max-width:1024px) {
+	#menu {left:-100%; width:70%;}
+	#menu-burger.clicked {position:fixed;}
+	#main-block,
+	#second-block {padding:4em 2em;}
+
+	/* Animations pour le menu slide */
+	@keyframes slideRight {
+		from {left:-70%;}
+		to {left:0%;}
+	}
+	@-webkit-keyframes slideRight {
+		from {left:-70%;}
+		to {left:0%;}
+	}
+	@keyframes slideLeft {
+		from {left:0%;}
+		to {left:-100%;}
+	}
+	@-webkit-keyframes slideLeft {
+		from {left:0%;}
+		to {left:-100%;}
+	}
+}
+@media (max-width:600px) {
+	#menu-burger {top:1em; right:2em; z-index:9999;}
+	#menu {left:-100%; width:70%;}
+	#second-block #google-maps {width:70%; margin-right:0;}
+	#second-block #contact-form {width:70%; margin-top:2em;}
+
+	/* Animations pour le menu slide */
+	@keyframes slideRight {
+		from {left:-70%;}
+		to {left:0%;}
+	}
+	@-webkit-keyframes slideRight {
+		from {left:-70%;}
+		to {left:0%;}
+	}
+	@keyframes slideLeft {
+		from {left:0%;}
+		to {left:-100%;}
+	}
+	@-webkit-keyframes slideLeft {
+		from {left:0%;}
+		to {left:-100%;}
+	}
+}
+
+
+/* Augmente la taille des boutons de zoom */
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out {
+  width: 40px !important;
+  height: 40px !important;
+  line-height: 80px;
+  font-size: 30px;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.popup {
+	font-size: 1em;
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 9999;
+  }
+  
+  .popup-content {
+	font-size: 1em;
+	background-color: #fff;
+	width: 300px;
+	margin: 100px auto;
+	padding: 20px;
+	text-align: center;
+  }
+  
+  #close-btn {
+	background-color: #333;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+  }

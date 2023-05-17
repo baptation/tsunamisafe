@@ -1,0 +1,2222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Sites_refuges_Saint_Martin">
+  <name>Sites_refuges_Saint_Martin</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Sites_refuges_Saint_Martin</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Baie Orientale 3</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Baie Orientale 3</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Baie Orientale 3</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02621660809793,18.08135683668195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Bellevue</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bellevue</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Bellevue</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.08550559189222,18.05772842680278,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Baie Rouge</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Baie Rouge</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Baie Rouge</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.12186562769618,18.06897726094866,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Grand-Case 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Grand-Case 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Grand-Case 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.05181258057277,18.10572113967923,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Grand-Case 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Grand-Case 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Grand-Case 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.04674740941447,18.1044441028174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Hope Estate</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hope Estate</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Hope Estate</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.04046323380877,18.09441604588774,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Baie Orientale 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Baie Orientale 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Baie Orientale 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02647118787585,18.08908401084787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Cul de Sac 3</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cul de Sac 3</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Cul de Sac 3</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.03080579647304,18.09756468330623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Mont Vernon 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mont Vernon 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Mont Vernon 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02505660780288,18.09749999975153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Grand-Case 3</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Grand-Case 3</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Grand-Case 3</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.05142282654536,18.09749169979338,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Cul de Sac 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cul de Sac 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Cul de Sac 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02321896312908,18.10978978427221,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Mont Vernon 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mont Vernon 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Mont Vernon 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.03613914744689,18.09544004078592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Anse Marcel</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Anse Marcel</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Anse Marcel</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.03857668058204,18.11037000870322,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Marigot 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Marigot 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Marigot 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.08477439356451,18.06986480998048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Concordia 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Concordia 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Concordia 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.07496881034163,18.06794584919416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Concordia 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Concordia 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Concordia 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Terrain vague</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.07895569784397,18.06520007636063,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Agrément 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Agrément 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Agrément 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.07666930239466,18.07531924119715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Agrément 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Agrément 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Agrément 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Terrain vague</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.07537270018442,18.07292727882138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Quartier d'Orléans 3</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Quartier d'Orléans 3</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Quartier d'Orléans 3</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Chemin</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.03973270029747,18.06677927709652,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Quartier d'Orléans 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Quartier d'Orléans 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Quartier d'Orléans 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.03339670407397,18.07306209094661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Quartier d'Orléans 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Quartier d'Orléans 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Quartier d'Orléans 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Chemin</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02900725831225,18.0741182000045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Quartier d'Orléans 4</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Quartier d'Orléans 4</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Quartier d'Orléans 4</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.0278691489652,18.06805526189545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Oyster Pond 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Oyster Pond 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Oyster Pond 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.01237376810074,18.05669792955489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Oyster Pond 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Oyster Pond 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Oyster Pond 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Terrain vague</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.01484768990759,18.05770384939901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Friar's Bay 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Friar's Bay 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Friar's Bay 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.07457043968782,18.09148313395603,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Terres-Basses 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Terres-Basses 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Terres-Basses 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.13776006599211,18.06123078533364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Terres-Basses 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Terres-Basses 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Terres-Basses 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.13367798255333,18.06473230994931,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Terres-Basses 3</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Terres-Basses 3</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Terres-Basses 3</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.14306379599504,18.06965330741612,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Pinel</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pinel</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Pinel</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Terrain vague</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.01254384524863,18.10726357136483,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Cul de Sac 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cul de Sac 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Cul de Sac 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02914318969314,18.10403648780203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Friar's Bay 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Friar's Bay 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Friar's Bay 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.07954363200054,18.084631862837,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Port</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Port</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Port</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.08273012418944,18.08340396994987,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Décharge</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Décharge</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Décharge</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Terrain vague</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02460056187898,18.11725527733871,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>La Savane 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>La Savane 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>La Savane 1</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.06443551284457,18.09211320984083,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>La Savane 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>La Savane 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>La Savane 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Parking</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.06349865030991,18.09785797447498,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Baie Orientale 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Baie Orientale 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nom_site</td>
+<td>Baie Orientale 2</td>
+</tr>
+<tr>
+<td>id_site</td>
+<td>STM__29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>commune</td>
+<td>Saint-Martin</td>
+</tr>
+<tr>
+<td>code_insee</td>
+<td>97801</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>nature_sit</td>
+<td>Route</td>
+</tr>
+<tr>
+<td>date</td>
+<td>01/01/2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>UMR_GRED_Projet_EXPLOIT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -63.02344065065887,18.08476223068249,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_12ff6220_0.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

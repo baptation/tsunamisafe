@@ -1,0 +1,2264 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Sites_refuge" id="Sites_refuge">
+	<SimpleField name="Nom_SR" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Commune" type="string"></SimpleField>
+	<SimpleField name="Alt_moy_m" type="int"></SimpleField>
+</Schema>
+<Folder><name>Sites_refuge</name>
+<!--
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Gare RER</SimpleData>
+		<SimpleData name="Type">Gare</SimpleData>
+		<SimpleData name="Commune">Champs-sur-Marne</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.581940,48.842910</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade du bois de l'étang</SimpleData>
+		<SimpleData name="Type">Stade</SimpleData>
+		<SimpleData name="Commune">Champs-sur-Marne</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates> 2.58794232641114,48.84347708598303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parc de Noisiel</SimpleData>
+		<SimpleData name="Type">Parc</SimpleData>
+		<SimpleData name="Commune">Noisiel</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.618466,48.852822</coordinates></Point>
+  </Placemark>
+-->
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Sentier de Mtsanga Moutsoumbatsou</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0508992898992,-12.7511818796208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mosquée Agnala M'Kriny</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0579190000669,-12.7231069991874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Thomas</SimpleData>
+		<SimpleData name="Type">Carrefour</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.05966593533,-12.723562243698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Adobe</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0604776764354,-12.7246615698718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Fasini Bamana</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0491319618596,-12.7145390097434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Quartier Bouéni</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0499584506261,-12.7131595474071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Gamme</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0509355669688,-12.7110069378674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Medi Mzoungou</SimpleData>
+		<SimpleData name="Type">Carrefour</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0518389998483,-12.7088329993799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour RN2</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1216594747907,-12.8408651337129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ruelle du cimetière Coconi</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1193190003411,-12.8385069994529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Coconi en teti</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1178922740529,-12.8375859213975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ambadza Habou</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1135424324984,-12.8369910183249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Adani Oulaya</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1128700660951,-12.8353680016445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Adankouza</SimpleData>
+		<SimpleData name="Type">Impasse</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1112709652422,-12.8363014073187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Venelle des ainés</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1041626019549,-12.8250611842167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Sohoa Keli</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1054290003685,-12.8232949994899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Mtsanga Sohoa</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chiconi</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1065407507842,-12.8216721810284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mougajou</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1164370001762,-12.8445480000404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Lycée de Sada</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1126638117322,-12.8458986724492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">M'Bouyoujou</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.100012333999,-12.8497576177808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Dahalani Boinaidi</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.100883639038,-12.8488858425819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Younoussa Bamana</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0992501172076,-12.8515137869732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mahivari</SimpleData>
+		<SimpleData name="Type">Escalier</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0981566200491,-12.8516328768003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mlimai</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0960621093222,-12.8522449498754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue de Mtsanga Mtiti</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0942137183094,-12.8512558807624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Tahiti plage Nord</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.113216209078,-12.863992827643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Tahiti plage Sud</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1137963910897,-12.8658889092694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chemin de Mtsanga Mtsagnougni</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1221698899066,-12.8778986391915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Mtsanga beach</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Sada</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1317229244822,-12.8850758018555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole maternelle Poroani 6</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1385792419726,-12.8895734674249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Bamana</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1401941962803,-12.8912933442254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole élémentaire Poroani 1</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1422048662323,-12.8933900014861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Poroani sud</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1433211461665,-12.8955756264664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Accès au stade</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1555752485992,-12.9283332069156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole élémentaire Chirongui  2</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1492420545568,-12.936092112686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Pôle multimodal</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1475064923367,-12.9378799798646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rampe Cannelle</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1412573361838,-12.9384090317309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Deuxième Mosquée</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1376919999653,-12.9396899992685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Entrée école Souris Verte</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1346901967254,-12.9388879420678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rond-point de Majimouéni</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1056210653796,-12.9258195380126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole Moida Issa</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1036281826247,-12.9251969931609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Sud Hagnoudrou</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1015067116617,-12.916101691647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Ahmed Madi</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1003720004,-12.9040619991736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Rassi Bolé</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0768313798601,-12.9031186261209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place du plateau</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0799437160609,-12.9080690246132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Terrain de foot</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0827315030391,-12.9152797434267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">MJC</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0913768791999,-12.9245900292396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Mohamed Youssouf</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1049479996297,-12.9284059998486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mbouanasta Mtiti</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1020370891388,-12.9376078628069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Boulevard Mogne Allaoui</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1022681529831,-12.9443528894623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking Ngouja</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0823010003757,-12.9608369992837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Msakouani</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1841513595033,-12.8442236988952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Vétiver</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1876467187867,-12.8444142984438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Collège Zakia Madi</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1905811406103,-12.846202449671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Placette Trico</SimpleData>
+		<SimpleData name="Type">Placette</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1848472892604,-12.8453523414983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ironi Bé</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1887800105868,-12.8290311789967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chemin de Mtsanga Iloni</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1932665746721,-12.8499576798454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place ancien foyer</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1958515767298,-12.8675213285213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Handré</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Dembéni</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2078579164106,-12.8712479353237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking central</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.21503952061,-12.8809943940499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking haut Hamouro</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2152013098136,-12.8831150298365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Entrée parking Mtsanga Sakouli</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2133733292736,-12.8869662781664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place publique de Nyambadao</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2029721096507,-12.8933894885023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Nyambadao</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1994913194102,-12.8935220120693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mro Mouhou</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1945282736325,-12.8996444064956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Sentier Banano (STEP)</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1927428073534,-12.9036221673929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking PMI</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1922374393546,-12.9109358195639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour école Cavani</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1923834959792,-12.9144342417048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Les hauts de musicale plage</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.183386940464,-12.917737754246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chemin Bambo nord</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1762879372595,-12.927044030624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chemin réservoir Bambo</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1748856905285,-12.9290821140676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Accès plage Mgnambani</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1718749032082,-12.9401521824289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place de la PMI</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1738868458178,-12.9623174086551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole maternelle de Dapani</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1618925970653,-12.9705544302388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Entrée de Mbouini</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1366551632187,-12.9858828737729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Passi Kéli</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1270296677704,-12.9854562330901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1231365727557,-12.9777297694909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue de la belle-vue</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1124615720942,-12.9647036225432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">D4 Kani Né</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1121136888785,-12.9610279393205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Faré Cavani</SimpleData>
+		<SimpleData name="Type">Carrefour</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.107286701043,-12.954856494856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ancien dispensaire - PMI</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1033242318763,-12.957707062808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mosquée du Vendredi</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1053770593261,-12.9563162486613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Dzoumonyé</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.12233477554,-12.7261865359732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Gagani</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1341229210661,-12.733075634474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Stade</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1375947102917,-12.7341758842232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Bouyouni centre</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1397411972958,-12.7363142219636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Bouyouni Mitséni</SimpleData>
+		<SimpleData name="Type">Ruelle</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1409077045795,-12.7391442389033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Gouena Lahé</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1539099295238,-12.7383028991224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Lycée du bÃ¢timent</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1587072507351,-12.7375921130101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Bane Coco</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1605139999563,-12.7354389996863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Bagjimoi</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1631709996154,-12.7341029993517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Sentier de Mtsanga Longoni</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1643551967612,-12.7272517108891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Tririni</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1702054471558,-12.7300400174843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Entrée Lafarge</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1662490360811,-12.720977111744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Zone Vallée 3</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1790083906448,-12.7357690825788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1885681548899,-12.7326199890253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Quartier maternelle</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1190152479219,-12.7203936401596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mgouédajou</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1246348823576,-12.7219843392649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole Mvwérani</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.121154077036,-12.7047304373835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Foyer</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1220812383693,-12.7029332611076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Kadjifoutchéni</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1227298580769,-12.7012776613055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mgombani</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1212247195748,-12.7069271355022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue de la maternelle Takamaka</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1223047646592,-12.7092323701424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Gnambo</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1232121811451,-12.7112789266333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Le Rocher</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2564180757192,-12.7820849515709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Fourougou</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.262088964508,-12.7872479529647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Marie Djari (Bambao)</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2693566124892,-12.7881584446079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place de la Mairie</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2722977320296,-12.7882254308947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Les hauts de Oupi</SimpleData>
+		<SimpleData name="Type">Ruelle</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2740466685262,-12.7819600942708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Pharmacie des Badamiers</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2784253884084,-12.781574593442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Polé</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2802733205276,-12.7727248596034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Badamiers</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2799069644588,-12.7691567035888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade du lycée</SimpleData>
+		<SimpleData name="Type">Stade</SimpleData>
+		<SimpleData name="Commune">Pamandzi</SimpleData>
+		<SimpleData name="Alt_moy_m">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2843109411244,-12.7976425357594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Bahoni</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Pamandzi</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2795355667463,-12.7997121073233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Hôpital</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Pamandzi</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2766243136513,-12.7955885788533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ancienne gendarmerie</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Pamandzi</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2745657922769,-12.7962685621249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Maternelle Pamandzi 7 Mangafouté</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Pamandzi</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2741845627595,-12.794648806732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Les hauts de la station service</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2712100686216,-12.7920247960696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Jean-Baptiste</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2760237264699,-12.7857690910694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking de Moya</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2949961155711,-12.7836200524719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Dispensaire</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0649414082978,-12.701836094096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Cora</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0669773988903,-12.6998102279363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Passerelle</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0695309996979,-12.6987109997464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Hadarouba</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.069950303006,-12.6970658073056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Mjoura</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0687318204677,-12.6996611320015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Jiva</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0715615726762,-12.6935536766372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Makine</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0747659250645,-12.6878597660014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mangajou</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.074177710181,-12.6913813772195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking école maternelle</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0773227056522,-12.6844486053626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Mosquée Rifanyi</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0825973516555,-12.6813322674139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Shell</SimpleData>
+		<SimpleData name="Type">Faré</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0802924872179,-12.6830835052543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mosquée</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mtsamboro</SimpleData>
+		<SimpleData name="Alt_moy_m">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0838250031746,-12.6801056693885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mfampejou</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1007229274485,-12.6828270184978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0979530037225,-12.6809362163143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mtsangoumboua Centre</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1101282560875,-12.6907203649552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour de la station</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1108943817374,-12.6914354012879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Placette Mahiziyo</SimpleData>
+		<SimpleData name="Type">Placette</SimpleData>
+		<SimpleData name="Commune">Bandraboua</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1101188104675,-12.6897468927907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rond point SFR</SimpleData>
+		<SimpleData name="Type">Rond Point</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2245840292801,-12.7759404112323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Pompier</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2234037566464,-12.7755082594674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Gaza Kawéni</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2226538735558,-12.7745603782063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mosquée du vendredi</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2215079998199,-12.7730110000293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Le sénat</SimpleData>
+		<SimpleData name="Type">Faré</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2219085756452,-12.7720227436864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">MJC Kawéni</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2219474510814,-12.7707592365499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mosquée des indiens</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2253545075145,-12.7641995263262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Dismi</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.226009159554,-12.7621302438893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking collège K2</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2240714788217,-12.7663967540048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ramara Mjdama</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2365114371049,-12.7626528756067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Entrée Jumbo</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2325431911884,-12.755833995266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Petit banga</SimpleData>
+		<SimpleData name="Type">Faré</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2311740000557,-12.7542669995209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking école maternelle Majicavo-Lamir</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2300408870121,-12.7537191881197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue collège Lamir</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2296130443313,-12.7521142946909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2272970002725,-12.7502179998364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Hamachaka</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2245817174909,-12.7453936949934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place des pÃªcheurs</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2215166020701,-12.7447570748378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Magikoro</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2174455586056,-12.7451605692917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Sortie Nord Majikavo Koropa</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2175141225451,-12.7420887742984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Pachéni</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2092824788318,-12.7356066451711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2061385103726,-12.7391250953321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Bamana</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2051101352466,-12.7360801257344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Cap Océania</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2044724658888,-12.7327514079392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Collège</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2023630729904,-12.7343853502383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Pharmacie des makis</SimpleData>
+		<SimpleData name="Type">Faré</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1995161536395,-12.7339429045456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chemin de Mtsanga Trévani</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1933935299511,-12.7306737403235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Les hauts Passamainty stade</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2080917691949,-12.8025979578325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour lotissement SIM</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2052577691091,-12.805498672154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Manga Dzia</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2047217656675,-12.8063583115661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Kwalé - Les hauts du collège</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1991035810247,-12.8051359270926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Virage Abdallah Hachim</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1981398803115,-12.8078607488027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue Zanzibar</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2012285564833,-12.8139046116742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Trotro Ndjéou</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2086313780903,-12.8056322071461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour école Mhogoni</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2132540366153,-12.7996130662897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking cimetière</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2148783146798,-12.7996553873888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour garage Chadhuli</SimpleData>
+		<SimpleData name="Type">Carrefour</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2125850392642,-12.7959689723584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole primaire Doujani 2</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2126303281769,-12.7947741547808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Madin Tche</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2161560788839,-12.7921477185307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour école Bonovo</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2182741299821,-12.7907130775832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place de la grande mosquée du vendredi</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2324973977116,-12.7816917387039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">La poste</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2321087138585,-12.7798395781842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place de l'ancien marché</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2306672643597,-12.778743461787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Mariage</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2308610003596,-12.7770519997099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place du tombeau du Sultan Adrian Souli</SimpleData>
+		<SimpleData name="Type">Faré</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2371425674933,-12.7851924514841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking Somaco-resto Koffi Annan</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2292388323424,-12.7831353367617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade Cavani</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2227060116604,-12.7842041179499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place de Doukabé Mgévatana</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2211312382005,-12.7876260186137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Manga Mandzimoja</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2181978924367,-12.7883668915353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Mtsapéroise</SimpleData>
+		<SimpleData name="Type">Faré</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.223900036435,-12.7877322641415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Stade</SimpleData>
+		<SimpleData name="Commune">Acoua</SimpleData>
+		<SimpleData name="Alt_moy_m">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0494988666183,-12.7158490927314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Sortie Mronabéja</SimpleData>
+		<SimpleData name="Type">Carrefour</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1113414185219,-12.9687862971869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1275945329243,-12.9868033161133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking Bandrakouni</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Kani-Kéli</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1077334242772,-12.9751493584006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade de Pamandzi</SimpleData>
+		<SimpleData name="Type">Stade</SimpleData>
+		<SimpleData name="Commune">Pamandzi</SimpleData>
+		<SimpleData name="Alt_moy_m">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2804982626542,-12.7955433241863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Accès Bolloré</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1812535559759,-12.7311506192872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mont Legun</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">Koungou</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2121502194929,-12.7405456721351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">MJC</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1502426774161,-12.9053605329888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole primaire de Mirereni</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1557611730384,-12.9057382329412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ecole primaire de Malamani</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Chirongui</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1574095515439,-12.9225076177304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Mariage</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Tsingoni</SimpleData>
+		<SimpleData name="Alt_moy_m">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1036137541587,-12.7907093615997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rond-point de la Mosquée</SimpleData>
+		<SimpleData name="Type">Rond-point</SimpleData>
+		<SimpleData name="Commune">Tsingoni</SimpleData>
+		<SimpleData name="Alt_moy_m">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1068973152403,-12.7897174224012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Madrassa</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">Bouéni</SimpleData>
+		<SimpleData name="Alt_moy_m">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0959714622957,-12.9001520403068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Riffay</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2844347448096,-12.764484833219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Ancienne mairie</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.270404087992,-12.7896116438469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Stade</SimpleData>
+		<SimpleData name="Type">Stade</SimpleData>
+		<SimpleData name="Commune">Dzaoudzi</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.277254290663,-12.7876992697413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Parking Sud Sakouli</SimpleData>
+		<SimpleData name="Type">Parking</SimpleData>
+		<SimpleData name="Commune">Bandrélé</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2112428867458,-12.8894356033297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Les hauts du rond-point du manguier</SimpleData>
+		<SimpleData name="Type">Rond-point</SimpleData>
+		<SimpleData name="Commune">Mamoudzou</SimpleData>
+		<SimpleData name="Alt_moy_m">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.2278870454264,-12.7845952752737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mlezi</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">Tsingoni</SimpleData>
+		<SimpleData name="Alt_moy_m">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1146289997556,-12.7962699994005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Départ sentier de Soulou</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Tsingoni</SimpleData>
+		<SimpleData name="Alt_moy_m">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1053301836833,-12.7748772552843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Virage Mdallah Boina</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.1039166138838,-12.7719759600563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Manga Goudrou</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0992659998669,-12.7635659998275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mosquée Djaoula</SimpleData>
+		<SimpleData name="Type">Terre-plein</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0851086359288,-12.7606353103902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Place Mroni Dradri</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0873200001408,-12.7609799995618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chez Mdjo</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0817782815587,-12.7628785141721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rond-point Chimbé Trotto Mani</SimpleData>
+		<SimpleData name="Type">Place</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0754893402336,-12.76467414529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Houjou La Plateau</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.073604703486,-12.7611667068298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chemin Tanaraki</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0697455707388,-12.7590623142614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mliha Chanfi</SimpleData>
+		<SimpleData name="Type">Chemin</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.061329631758,-12.749174586815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Mjimpia</SimpleData>
+		<SimpleData name="Type">Rue</SimpleData>
+		<SimpleData name="Commune">M'Tsangamouji</SimpleData>
+		<SimpleData name="Alt_moy_m">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>45.0566795472579,-12.7488043332313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Anse des lézards</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84576645460297,17.91598546659067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Morne du puits</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85450671462147,17.91785460419835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de la source</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8582465417498,17.91596206559676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Montée de Grand-Fond</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.81344973002879,17.89568407818737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Accès hôtel Guanahani</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.80542802717798,17.9105252158788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Toiny</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.79839511864044,17.89960200285626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Chapelle proximité Pompi</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8000682433836,17.90361084665371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Marigot</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.80950180050967,17.90980521436932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Zone artisanale Salines</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82837310829445,17.89917328850152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Carrefour Petite Saline</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82294064403136,17.90124464251965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Saint-Jean vers Lorient</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83272248032471,17.90229704986054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Entrée de Lorient</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82992825116146,17.907440937864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route les hauts d'Anse des Cayes</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84748606852402,17.91203346961347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Saint-Jean / Salines</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8324028971798,17.90057055394058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Salines / Saint-Jean</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83014416412177,17.89849310063013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route Morne Tourterelle</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82984674975549,17.89493945576776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route les hauts de Carénage</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83640066336953,17.89595159776792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Les hauts de Saint-Jean</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83471238699721,17.90077251396883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Tourmente</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84805189845532,17.90427305709688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Route de Gouverneur</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.83125089451676,17.88625412587099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Haut de Corossol vers Public</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85388891879748,17.90817485379011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Haut de Corossol vers Colombier</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85393749672523,17.90912737542974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Local ASP</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.8520521410073,17.90642338756728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Montée de Camaruche</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.81940678786696,17.90632679543447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue de la Colline</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85236434565682,17.89576183767051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">La pointe</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.86131660868082,17.92004920774342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue des Normands</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84700254150852,17.8950327613517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Centre médico-social</SimpleData>
+		<SimpleData name="Type">Route</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.85065944163205,17.90096785318244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Rue de la Paix</SimpleData>
+		<SimpleData name="Type">Bas-côté</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.84844242131885,17.89754803503101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Plage de Colombier</SimpleData>
+		<SimpleData name="Type">Sentier</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.86755003679664,17.92394807423495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Sites_refuge">
+		<SimpleData name="Nom_SR">Clocher de Lorient</SimpleData>
+		<SimpleData name="Type">Impasse</SimpleData>
+		<SimpleData name="Commune">Saint-Barthélemy</SimpleData>
+		<SimpleData name="Alt_moy_m">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.82398192142885,17.90521394101968</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

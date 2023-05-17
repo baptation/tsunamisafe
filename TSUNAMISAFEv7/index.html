@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <meta charset="utf-8">
+    <head>
+      <title>TSUNAMISAFE</title>
+
+
+      <!-- script leaflet -->
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+      integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+      crossorigin=""/>
+      
+      <!-- script routing machine -->
+      <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+      
+      <!-- script mapbox -->
+      <script src='https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js'></script>
+      <link href='https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.css' rel='stylesheet' />
+
+      <!-- appel du fichier web.css -->
+      <link rel="stylesheet" href="css/web.css">
+    </head>
+    <body>
+      <div id="popup" class="popup">
+        <div class="popup-content">
+          <strong>
+          <h4>IN THE EVENT OF A TSUNAMI WARNING</h4>
+          
+          <h4>EN CAS D'ALERTE TSUNAMI</h4>
+          
+          <h4>EN CASO DE ALERTA DE TSUNAMI</h4>
+          
+        </strong>
+        <p><strong>[EN]</strong> If you are in a red zone, follow the route. If not, ignore the displayed route.</p>
+        
+        <p><strong>[FR]</strong> Si vous vous situez dans un zone rouge, suivez l'itinéraire. Sinon, ne prenez pas en compte l'itinéraire affiché.</p>
+        
+        <p><strong>[ES]</strong> Si se encuentra en una zona roja, siga la ruta. En caso contrario, ignore la ruta mostrada.</p>
+        
+          <button id="close-btn">Close</button>
+        </div>
+      </div>
+      
+            
+      <nav id="menu">
+        <h1>TSUNAMISAFE</h1>
+      
+        <ul id ="puces">
+          <li>Langue : <select name="langage" id="langage">
+              <option value="EN">English</option>
+              <option value="FR" selected>Français</option>
+              <option value="ES">Español</option>
+          </select></li>
+          <li>Afficher les instructions : <label id="instructions"><input type="checkbox" name="instructions"></label></li>
+        </ul>
+      
+      </nav>
+      
+      <div id="container">
+        <header id="header">
+          <p>TSUNAMISAFE</p>
+      
+          <div id="menu-burger">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+          </div>
+        </header>
+      </div>
+      <div id = 'map'></div>
+      <div id="instructions"></div>
+      
+
+      <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+      <!-- Ces deux balises script sont à insérer entre les deux balises existantes -->
+      <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+
+      <!-- appel du fichier web.js -->
+      <script src="js/web.js" charset="utf-8" type="module"></script>
+
+
+      <!-- script omnivore -->
+      <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+      
+      <!-- script jquery -->
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      
+      
+    </body>
+</html>
